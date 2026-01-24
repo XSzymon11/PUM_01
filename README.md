@@ -1,5 +1,3 @@
-# PUM_Zajecia1_Przadak
-
 ## CEL PROJEKTU
 Projekt miał na celu zapoznać mnie z podstawami pracy oraz możliwościami platformy `dataiku`
 
